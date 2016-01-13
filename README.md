@@ -1,2 +1,0 @@
-# Phalcon
-Try Phalcon framework
